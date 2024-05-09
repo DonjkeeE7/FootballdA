@@ -1,0 +1,146 @@
+header{ 
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
+    z-index: 1000; 
+    background-color: #ffffff; 
+}
+.cardd .container .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardd {
+    margin-top: 50px;
+}
+
+.team .container .row {
+    display: flex;
+    justify-content: space-between;
+}
+.cardd .btn-primary {
+    color: #fff;
+    background-color: #258e25;
+    border-color: #fded0d94;
+}
+.team {
+    margin-top: 50px;
+    background-image: url(https://sportishka.com/uploads/posts/2022-08/1660201011_48-sportishka-com-p-futbolnoe-pole-oboi-na-telefon-sport-krasi-55.jpg);
+}
+.team .card{
+    background-color: rgba(221, 221, 221, 0.932);
+}
+.mb-3 {
+    margin-bottom: 2px !important;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    size: 20px;
+}
+
+i {
+    font-size: 20px;
+}
+
+.team .container .row img {
+    height: 260px;
+}
+
+.progress {
+    width: 88%;
+    height: 25px;
+    background-color: rgb(202, 202, 202);
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.col-md-4 {}
+
+.row {
+    align-items: center;
+}
+
+.row-cols-lg-2>* {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.columnda {}
+
+.btn-primary {
+    color: #fff;
+    background-color: #fd0d0d;
+    border-color: #fded0d94;
+}
+
+/* .form-control {
+    width: 200%;
+}
+
+.form .btn-primary {
+    width: 270%;
+    margin-top: 10px;
+}
+
+.form .all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+} */
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+form .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+/* .form .col-12{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.form .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.col-6{
+    width: 100%;
+} */
+.col-6{
+    width: 100%;
+}
+.form-control{
+    /* width: 90%; */
+}
+.team h2{
+    margin-top: 50px;
+}
+.team .icon-youtube-play{
+    color: #fd0d0d;
+}
+.news .btn-primary {
+    color: #fff;
+    background-color: #a3a3a3;
+    border-color: #00000094;
+}
